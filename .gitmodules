@@ -1,0 +1,9 @@
+[submodule "poky"]
+	path = poky
+	url = http://git.yoctoproject.org/git/poky
+[submodule "layers/meta-raspberrypi"]
+	path = layers/meta-raspberrypi
+	url = https://git.yoctoproject.org/meta-raspberrypi
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
